@@ -1,0 +1,1 @@
+//background-image: linear-gradient(rgba(9,0,77,0.65),rgba(9,0,77,0.65)),url(background1.png);
